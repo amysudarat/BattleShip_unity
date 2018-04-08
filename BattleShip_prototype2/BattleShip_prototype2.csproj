@@ -235,6 +235,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Connect.cs" />
     <Compile Include="Assets\Script\BoatToggle.cs" />
     <Compile Include="Assets\Script\GameController.cs" />
     <Compile Include="Assets\Script\GridSpace.cs" />
