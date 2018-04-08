@@ -7,6 +7,7 @@ public class GameController : MonoBehaviour {
 
     public Text[] buttonList;
 
+    // This function get called when the game start
     void Awake()
     {
         SetGameControllerReferenceOnButtons();

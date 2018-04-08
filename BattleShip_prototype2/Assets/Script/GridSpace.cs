@@ -8,8 +8,11 @@ public class GridSpace : MonoBehaviour {
     public Button button;
     public Text buttonText;
     
+    
 
     private GameController gameController;
+
+    // Function is excuted in order from top to bottom 
 
     public void SetSpace()
     {
